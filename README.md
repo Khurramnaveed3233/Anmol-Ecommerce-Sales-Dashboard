@@ -11,4 +11,8 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 - **Total Profit (Sum of Profit)** : 11K
 - **Average Sales per Transaction (Sum of Avg)** : 31K
 
+## Profit by Month (Q4):
 
+- **October**** : 5K profit (highest in the quarter)
+- **November** : 4K profit
+- **December** : 2K profit (lowest in the quarter)
