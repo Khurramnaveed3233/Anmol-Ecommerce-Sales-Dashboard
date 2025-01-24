@@ -39,3 +39,12 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 - **Maharashtra is the leading state in terms of sales, contributing more than double the sales compared to Uttar Pradesh, the second-highest state.**
 - **Focused marketing and distribution strategies in Maharashtra could further enhance sales in this high-performing region.**
 - **There is room for improvement in states like Madhya Pradesh and Himachal Pradesh. Tailored strategies like promotions or localized marketing may help in driving growth.**
+
+## Sales Performance by Sales Agents:
+
+-- **Top Agents by Sales (Sum of Amount):**
+
+  - Harvinash: ~10K
+  - Lalita: ~9K
+  - Gopal: ~8K
+  - Priyanka: ~7K
