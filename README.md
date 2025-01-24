@@ -64,3 +64,9 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
    - UPI Payments: 159 units (12.77%)
    - Net Banking: 131 units (10.52%)
    - Wallets: 118 units (9.48%)
+ 
+##  Observations:
+
+- The majority of customers prefer Credit/Debit Card payments, followed by Cash on Delivery. This indicates that convenience and security may be driving factors for customers when choosing payment modes.
+  
+- While COD is still a popular option, reducing reliance on COD by offering discounts or faster delivery for prepaid orders could help streamline operations and reduce risk for the business.
