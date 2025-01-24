@@ -1,10 +1,14 @@
- # Anmol-Ecommerce-Sales-Dashboard
+ # PrimeBazaar-Ecommerce-Sales-Dashboard
 
-![anmol](https://github.com/user-attachments/assets/8f9349d3-5fbc-49c4-aabd-fd622c2e99cf)
+![primebazaar](https://github.com/user-attachments/assets/8971bcb1-c5f6-4407-8964-f2965b46d7b6)
 
 ## Overview:
 
 This report provides a detailed analysis of the E-Commerce Sales Dashboard for Anmol's online store, focusing on the key metrics including total sales amount, profit, quantity sold, and performance by state, payment mode, and sub-category of products. The dashboard covers data for the fourth quarter (Q4) of the year, and presents insights into customer payment preferences, top-performing states, categories, and trends in profit.
+
+## Schema :
+
+![schema](https://github.com/user-attachments/assets/b39289fa-c7f5-43b4-bc3c-8b8eb13ff621)
 
 ## Key Metrics:
 
