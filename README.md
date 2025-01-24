@@ -24,3 +24,11 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 - **The highest profit was achieved in October, with a gradual decline through November and December.**
 - **This could indicate strong sales performance early in the quarter, possibly driven by marketing efforts, festivals, or seasonal demand.**
 - **A sharp drop in December indicates potential issues such as reduced demand, stockouts, or competition during the holiday season.**
+
+## Sales Performance by State:
+
+- **Top States by Sales (Sum of Amount):**
+      **1. Maharashtra:** ~40K
+      **Uttar Pradesh: ** ~15K
+      **Madhya Pradesh: ** ~8K
+      **Himachal Pradesh: ** ~5K
