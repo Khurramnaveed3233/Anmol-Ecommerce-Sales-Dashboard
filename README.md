@@ -54,3 +54,13 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 - Harvinash is the leading sales agent, contributing the highest revenue. Providing incentives or bonuses for top performers like Harvinash may help retain and further motivate sales agents.
   
 - Identifying training needs or strategies to boost the performance of other agents could lead to improved sales across the board.
+
+## Sales Quantity by Payment Mode:
+
+- Top Payment Modes by Quantity Sold:
+  
+   - Credit/Debit Card: 575 units (46.18% of total sales)
+   - Cash on Delivery (COD): 262 units (21.04%)
+   - UPI Payments: 159 units (12.77%)
+   - Net Banking: 131 units (10.52%)
+   - Wallets: 118 units (9.48%)
