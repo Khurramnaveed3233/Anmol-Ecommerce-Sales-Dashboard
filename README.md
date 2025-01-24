@@ -29,7 +29,7 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 
 - **Top States by Sales (Sum of Amount):**
   
-- **1. Maharashtra**: ~40K
-2. Uttar Pradesh:  ~15K
-3. Madhya Pradesh:  ~8K
- 4. Himachal Pradesh: ~5K
+- **Maharashtra**: ~40K
+- ** Uttar Pradesh**:  ~15K
+- ** Madhya Pradesh**:  ~8K
+- ** Himachal Pradesh**: ~5K
