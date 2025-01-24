@@ -1,4 +1,4 @@
-# Anmol-Ecommerce-Sales-Dashboard
+ # Anmol-Ecommerce-Sales-Dashboard
 
 ![anmol](https://github.com/user-attachments/assets/8f9349d3-5fbc-49c4-aabd-fd622c2e99cf)
 
@@ -80,20 +80,20 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 
 - **Promotion of Prepaid Orders**:
 
- - Encourage customers to choose prepaid payment options (e.g., Credit/Debit Cards, UPI) by offering special incentives like discounts or faster shipping, reducing reliance on COD.
+  - Encourage customers to choose prepaid payment options (e.g., Credit/Debit Cards, UPI) by offering special incentives like discounts or faster shipping, reducing reliance on COD.
 
 - **Maximize Apparel and Electronics Profitability**:
 
- - Expand inventory and offer additional product variants in high-demand categories like Sarees and Trousers.
- - Enhance the profitability of electronics by bundling products or offering extended warranties, which can attract more customers.
+  - Expand inventory and offer additional product variants in high-demand categories like Sarees and Trousers.
+  - Enhance the profitability of electronics by bundling products or offering extended warranties, which can attract more customers.
 
 - **Address Declining Profit in December**:
 
- - Investigate the sharp drop in December profits. Evaluate whether external factors (e.g., competition, stockouts) played a role and implement corrective measures like holiday-specific marketing or better inventory management.
+  - Investigate the sharp drop in December profits. Evaluate whether external factors (e.g., competition, stockouts) played a role and implement corrective measures like holiday-specific marketing or better inventory management.
 
 - **Motivate Sales Agents**:
 
- - Recognize and reward top-performing sales agents to boost morale and productivity.
+  - Recognize and reward top-performing sales agents to boost morale and productivity.
 
 ##Conclusion:
 
