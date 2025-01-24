@@ -7,7 +7,8 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 ## Key Metrics:
 
 - **Total Sales Amount (Sum of Amount)** : 114K
-  
-Total Profit (Sum of Profit): 11K
-Total Quantity Sold (Sum of Quantity): 1245 units
-Average Sales per Transaction (Sum of Avg): 31K
+- **Average Sales per Transaction (Sum of Avg)** : 1245 units
+- **Total Profit (Sum of Profit)** : 11K
+- **Average Sales per Transaction (Sum of Avg)** : 31K
+
+
