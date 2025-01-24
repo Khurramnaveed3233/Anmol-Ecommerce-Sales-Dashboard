@@ -42,7 +42,7 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 
 ## Sales Performance by Sales Agents:
 
--- **Top Agents by Sales (Sum of Amount):**
+**Top Agents by Sales (Sum of Amount):**
 
   - Harvinash: ~10K
   - Lalita: ~9K
