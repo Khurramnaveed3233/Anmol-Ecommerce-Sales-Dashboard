@@ -51,6 +51,6 @@ This report provides a detailed analysis of the E-Commerce Sales Dashboard for A
 
 ##  Observations:
 
-- **Harvinash is the leading sales agent, contributing the highest revenue. Providing incentives or bonuses for top performers like Harvinash may help retain and further motivate sales agents.
+- Harvinash is the leading sales agent, contributing the highest revenue. Providing incentives or bonuses for top performers like Harvinash may help retain and further motivate sales agents.
   
-- **Identifying training needs or strategies to boost the performance of other agents could lead to improved sales across the board.
+- Identifying training needs or strategies to boost the performance of other agents could lead to improved sales across the board.
